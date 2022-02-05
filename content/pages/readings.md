@@ -25,17 +25,126 @@ Chapter 7 is not available on MIT OpenCourseWare. The steel data in Chapter 8 ar
 AC = alternate current  
 DC = direct current
 
-| CHAPTERS | TOPICS |
-| --- | --- |
-| 1 | Review of network theory ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch1)) |
-| 2 | AC power flow in linear networks ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch2)) |
-| 3 | Polyphase networks ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch3)) |
-| 4 | Introduction to symmetrical components ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch4)) |
-| 5 | Introduction to load flow ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch5)) |
-| 6 | Magnetic circuit analog to electric circuits ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch6)) |
-| 7 | Power electric motor drives |
-| 8 | Electromagnetic forces and loss mechanisms ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch8)) |
-| 9 | Synchronous machine and winding models ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch9)) |
-| 10 | Analytic design evaluation of induction machines ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch10)) |
-| 11 | DC (commutator) and permanent magnet machines ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch11)) |
-| 12 | Permanent magnet "Brushless DC" motors ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch12))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CHAPTERS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of network theory ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+AC power flow in linear networks ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Polyphase networks ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to symmetrical components ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to load flow ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic circuit analog to electric circuits ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Power electric motor drives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic forces and loss mechanisms ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Synchronous machine and winding models ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Analytic design evaluation of induction machines ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+DC (commutator) and permanent magnet machines ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Permanent magnet "Brushless DC" motors ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
